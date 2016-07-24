@@ -12,6 +12,6 @@
 
 6. Change the period in this sentence to an exclamation point: "I just won the powerball jackpot."
 
-7. Once with string interpolation and once with string concatenation, add together the strings "zip", "zap", and "zop".
+7. Create three variables z1, z2, and z3 to hold "zip", "zap", and "zop". Once with string interpolation and once with string concatenation, add together the three strings.
 
 8. There is a typing error in the following string. Use a method to remove the extra character: "Programming is so mulch fun!"
