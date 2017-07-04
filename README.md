@@ -1,4 +1,4 @@
-##Strings
+## Strings
 ### Create a new playground and practice with a partner
 1. Create a string that contains your favorite word. It can be in any language!
 
